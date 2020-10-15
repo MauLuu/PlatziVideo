@@ -1,0 +1,24 @@
+/* G E N E R A L */
+/* H E A D E R */
+/* C U E R P O  P R I N C I P A L */
+body  {
+        margin: 0;
+        background: #dedede;
+        display: flex;
+        align-items: center;
+        height: 100vh;
+      }
+      .gameboard {
+              height: 100vh;
+              width: 100vh;
+              border-radius: 50%;
+              overflow: hidden;
+              margin: 0 auto;
+              max-height: 60vh;
+              max-width: 60vh;
+            }      
+
+
+/* F O O T E R */
+/* M E D I A  Q U E R Y S */
+/* E R R O R  4 0 4  */
