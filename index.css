@@ -1,7 +1,7 @@
 /* G E N E R A L */
 body {
   font-family: 'Mulish', sans-serif;
-  background-color: #006494;
+  background: linear-gradient(#003554, #006494);
   margin: 0px;
 }
 /* C U E R P O  P R I N C I P A L */
@@ -58,6 +58,8 @@ a {
   color: #003554;
 }
 /* E R R O R  4 0 4  */
+.errorframe {
+}
 .error {
   display: flex;
   flex-direction: column;
